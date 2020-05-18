@@ -1,0 +1,76 @@
+[11572:8792:2020-4-18 17:39:40.520] Main Start
+[11572:8792:2020-4-18 17:39:40.520] Command line:"E:\Project_On\CSS-MySite\images\Zoom_ee31976589f97d84.exe"  Instance:0xF60000 Show State:1
+[11572:8792:2020-4-18 17:39:40.558] E:\
+[11572:10380:2020-4-18 17:39:40.562] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[11572:8792:2020-4-18 17:39:40.564] [client_has_installed_app] found path:
+[11572:8792:2020-4-18 17:39:40.564]  ***NULL-POINTER-PLACEHOLDER***
+[11572:8792:2020-4-18 17:39:40.564] [param_query_local_path] path is: C:\Users\Faisal\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[11572:8792:2020-4-18 17:39:40.564] [downloader_run] State:0
+[11572:12880:2020-4-18 17:39:40.587] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[11572:12880:2020-4-18 17:40:30.517] HttpSendRequest API failed1, error code: 12002
+[11572:10380:2020-4-18 17:40:30.517] HttpSendRequest API failed1, error code: 12002
+[11572:10380:2020-4-18 17:41:2.718] HttpSendRequest API failed, error code: 0
+[11572:10380:2020-4-18 17:41:2.718] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[11572:12880:2020-4-18 17:41:2.730] HttpSendRequest API failed, error code: 0
+[11572:12880:2020-4-18 17:41:2.730] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[11572:8792:2020-4-18 17:41:2.747] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[11572:10380:2020-4-18 17:41:2.747] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[11572:10380:2020-4-18 17:41:7.161] [req_state_read_status_code] zHttpQueryInfo complete, status:404
+[11572:10380:2020-4-18 17:41:7.161] [req_state_read_status_code] zHttpQueryInfo complete, status:404 Error: 0
+[11572:10380:2020-4-18 17:41:7.161] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:404, Error:1010, Response content size:0
+[11572:8792:2020-4-18 17:41:7.184] [client_has_installed_app] found path:
+[11572:8792:2020-4-18 17:41:7.184]  ***NULL-POINTER-PLACEHOLDER***
+[14804:10396:2020-4-18 17:41:33.230] Main Start
+[14804:10396:2020-4-18 17:41:33.230] Command line:"E:\Project_On\CSS-MySite\images\Zoom_ee31976589f97d84.exe"  Instance:0xF60000 Show State:1
+[14804:10396:2020-4-18 17:41:33.231] [app_init] init_opener_worker failed.
+[14804:10396:2020-4-18 17:41:33.231] MyMain Failed to init.
+[14804:10396:2020-4-18 17:41:33.231] Main End
+[11572:10380:2020-4-18 17:41:34.619] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[11572:8792:2020-4-18 17:41:34.619] [downloader_retry] State:15
+[11572:12880:2020-4-18 17:41:34.619] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[11572:10380:2020-4-18 17:41:35.921] [req_state_read_status_code] zHttpQueryInfo complete, status:404
+[11572:10380:2020-4-18 17:41:35.921] [req_state_read_status_code] zHttpQueryInfo complete, status:404 Error: 0
+[11572:10380:2020-4-18 17:41:35.921] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:404, Error:1010, Response content size:0
+[11572:8792:2020-4-18 17:41:35.933] [client_has_installed_app] found path:
+[11572:8792:2020-4-18 17:41:35.933]  ***NULL-POINTER-PLACEHOLDER***
+[11572:12880:2020-4-18 17:41:35.938] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[11572:12880:2020-4-18 17:41:35.938] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[11572:12880:2020-4-18 17:41:35.938] [log_response_content] Content length (1048576 as unknown):598 , Total read: 598 , Error No: 0 , Status code: 200
+[11572:12880:2020-4-18 17:41:35.938] [log_response_content] header:
+[11572:12880:2020-4-18 17:41:35.938] HTTP/1.1 200 
+Date: Sat, 18 Apr 2020 11:41:34 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 598
+Connection: keep-alive
+Server: ZOOM
+x-zm-trackingid: WEB_292a32e9bde330c61a13c577759aec9c
+X-Content-Type-Options: nosniff
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=1CC178D6F50CB5FBCAC591C95A133E3E; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=aw1_c_PFpnS33WTRyYH2r6cMeIxQ; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[11572:12880:2020-4-18 17:41:35.938] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:200, Error:0, Response content size:598
+[11572:8792:2020-4-18 17:41:35.994] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 200 Error: 0 Response: 
+[11572:8792:2020-4-18 17:41:35.994] Check-sum=6f11ccf88cc4a6d224974971c9981ba8;VCRed-sum=5689d43c3b201dd3810fa3bba4a6476a;fullmsi-sum=7cee4c49ebb1fa2a35d5209d02081b8c;fullcab-sum=d31e775748383e76ed868c6e45e66838;fullsip-sum=b93122c737bfbb0656ee809b9be948d1;Installer-sum=438b679e285195928653c9ab3c10a7ce;Update-Option=1;Current-version=4.6.20559.0413;Download-root=https://launcher.zoom.us/client;Package-url=https://launcher.zoom.us/client/4.6.20559.0413/Zoom.msi?t=atupg;Package-name=Zoom.msi;Installer-name=Installer.exe;ahcab-name=Airhost.CAB;sipcab-name=Sipcall.CAB;codesnippet-name=codesnippet_win.zip;fullcab-name=ZoomFull.CAB;
+[11572:12880:2020-4-18 17:41:35.994] [process_requst] start, url:https://launcher.zoom.us/client/4.6.20559.0413/Installer.exe?t=atupg
+[11572:12880:2020-4-18 17:41:38.673] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[11572:12880:2020-4-18 17:41:38.673] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[11572:12880:2020-4-18 17:41:47.568] [read_response_file] Status Code:200, content length: 626008, total read: 626008, error code: 0
+[11572:12880:2020-4-18 17:41:47.614] [process_requst] End for url:https://launcher.zoom.us/client/4.6.20559.0413/Installer.exe?t=atupg, return code:200, Error:0, Response content size:0
+[11572:8792:2020-4-18 17:41:47.621] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[11572:12880:2020-4-18 17:41:47.744] [process_requst] start, url:https://launcher.zoom.us/client/4.6.20559.0413/Zoom.msi?t=atupg
+[11572:12880:2020-4-18 17:41:49.914] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[11572:12880:2020-4-18 17:41:49.914] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[11572:12880:2020-4-18 17:45:1.617] [read_response_file] Status Code:200, content length: 10952906, total read: 10952906, error code: 0
+[11572:12880:2020-4-18 17:45:1.664] [process_requst] End for url:https://launcher.zoom.us/client/4.6.20559.0413/Zoom.msi?t=atupg, return code:200, Error:0, Response content size:0
+[11572:8792:2020-4-18 17:45:1.682] [handle_download_job_done] Index: 2 Curr index: 2 StatusCode: 200 Error: 0 Response is Empty. 
+[11572:8792:2020-4-18 17:45:1.692] C:\Users\Faisal\AppData\Roaming\Zoom\ZoomDownload\Installer.exe
+[11572:8792:2020-4-18 17:45:1.692] ZInstaller --conf.mode=silent --ipc_wnd=133110
+[11572:8792:2020-4-18 17:45:4.341] [launch_silent_install] Installer process created, result:42
+[11572:8792:2020-4-19 1:7:25.976] Main End
